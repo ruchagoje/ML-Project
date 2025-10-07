@@ -39,10 +39,6 @@ ML-Project/
 6. Evaluate models using appropriate metrics  
 7. Compare performances and draw conclusions  
 
-## 📈 Results & Insights
-
-*(You can add here a short summary of your best model’s performance — e.g. “Random Forest achieved ~85 % accuracy, best precision–recall tradeoff, etc.”)*
-
 ## 🚀 Next Steps & Possible Improvements
 
 - Add more algorithms (e.g. XGBoost, SVM)  
